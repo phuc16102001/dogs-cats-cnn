@@ -5,7 +5,7 @@ A project about image classification on dog and cat
 The problem is to classify the image contains whether dog or cat. The given image should be a single-object type. Furthermore, we also try to detect the position of that object on the image (localization).
 
 ## Data
-We use the train and test data from Kaggle: (Dogs vs cats)[https://www.kaggle.com/c/dogs-vs-cats]
+We use the train and test data from Kaggle: [Dogs vs cats](https://www.kaggle.com/c/dogs-vs-cats)
 
 ## Model
 In this project we try four models of VGG-style. Firstly, we try with the simplest model VGG 1-block which contains only a pair Convolute2D and Pooling following by an Fully-connected. Sequentially, we try 2-block and 3-block of VGG style. 
