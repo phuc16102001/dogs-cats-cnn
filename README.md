@@ -29,7 +29,7 @@ Moreover, we also leverage the VGG-16 model to do transfer learning. We use the 
 
 <div align="center">
     <p>
-        <img src="img/vgg16.jpg" style='width: 50%'>
+        <img src="img/vgg16.jpg" style='width: 75%'>
     </p>
     <p>
         <b>VGG-16 model architecture</b>
@@ -40,7 +40,7 @@ Moreover, we also leverage the VGG-16 model to do transfer learning. We use the 
 
 <div align="center">
     <p>
-        <img src="img/result_classification.png" style='width: 50%'>
+        <img src="img/result_classification.png" style='width: 75%'>
     </p>
     <p>
         <b>Classification result</b>
@@ -57,12 +57,13 @@ To do the detection task, we use the very idea which is the sliding window. The 
 
 <div align="center">
     <p>
-        <img src="img/result_detection.png" style='width: 50%'>
+        <img src="img/result_detection.png" style='width: 75%'>
     </p>
     <p>
         <b>Detection result</b>
     </p>
 </div>
+
 ## Contributors
 
 This project was developed by our team, including:
